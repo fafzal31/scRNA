@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.env
+venv/
+env/
+
+# Data files (large)
+*.h5ad
+*.h5
+*.hdf5
+*.bam
+*.bai
+*.fastq.gz
+*.fq.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.jupyter/
