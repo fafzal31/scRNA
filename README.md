@@ -403,7 +403,7 @@ pip install python-igraph leidenalg
 ```bash
 # Clone the repository
 git clone https://github.com/fafzal31/scRNA
-cd scrna-seq-analysis
+cd scRNA
 
 # Run the full Scanpy pipeline
 python scanpy_analysis/notebooks/pbmc3k_analysis.py
